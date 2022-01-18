@@ -1,1 +1,2 @@
-# We_Rate_Dogs
+### Introduction
+This is an exploratory project using data from several data sets. I used the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. This is a Twitter account that allows people to rate images of peoples dogs. I imported the 'image_predictions.tsv' which contains image prodictions for the posted dogs through the provided URL. Lastly, I used another provided file tweet_json.txt. This file contains data like favorite counts and retweet counts. All these data sets were gathered, analylized, cleaned, and stored. Finaly I explored the cleaned data looking for insites and made visualizations to help explain the insights.
